@@ -1,0 +1,7 @@
+#QUESTION 2 :
+name = "Rahil Goyal "
+SID = 22105088
+department_name = "Electronics and Communication Engineering"
+CGPA= 10
+
+print(f"Hey,{name} Here!\nMy SID is {SID} \nI am from {department_name} department and my CGPA is {CGPA}")
